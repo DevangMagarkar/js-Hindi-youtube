@@ -17,3 +17,6 @@
  console.log(typeof name);
  console.log(typeof null);
  console.log(typeof undefined);
+
+ // two types of datatypes : 1) primitive (String , vriable,cons) 
+ // and 2) non-primitive
